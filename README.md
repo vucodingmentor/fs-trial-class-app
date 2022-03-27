@@ -1,0 +1,1 @@
+# fs-trial-class-app
